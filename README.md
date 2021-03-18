@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Vue 3
 - 💬 Ask me about Webpack, Cordova, and Electron
 - 📫 You can email me at my GH username @gmail
-- ⚡ Fun fact: The proper name of the pound/hash symbol (#) is an octothorpe. 
+- ⚡ Fun fact: The proper name of the pound/hash symbol (#) is "octothorpe". 
